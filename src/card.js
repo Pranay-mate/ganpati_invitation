@@ -3,6 +3,8 @@ import Imgg from './images/1.jpg';
 // import Imgg from './images/2.jpg';
 import Img5 from './images/ganesh5.gif';
 import Img2 from './images/download.jpg';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faMapMarkedAlt, faMapMarkerAlt, faStar } from '@fortawesome/free-solid-svg-icons'
 
 class ganeshaCard extends Component {
 
@@ -26,9 +28,10 @@ class ganeshaCard extends Component {
                 </div>
                <p className="blessings mt-4">May Lord Ganesh shower you with success in all your endeavours</p>
 
-               <h4 className="venue"><i className="fas fa-star fa-xs"></i> Venue <i className="fas fa-star fa-xs"></i></h4>
+               <h4 className="venue"><FontAwesomeIcon icon={faStar}  size="xs" /> Venue <FontAwesomeIcon icon={faStar} size="xs" /></h4>
+                    
                     <h5 className="address">Maratha sec-32, Ulhasnagar-4 
-                    <a href="https://maps.app.goo.gl/FqYMnBoAw3nCnb6v6"><i className="fas fa-map-marker-alt fa-sm ml-2"></i></a>
+                    <a href="https://maps.app.goo.gl/FqYMnBoAw3nCnb6v6"><FontAwesomeIcon icon={faMapMarkerAlt} size="sm" className="ml-2" /></a>
                 </h5>
            </div>
         );

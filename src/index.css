@@ -8,6 +8,7 @@ body {
   text-align: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  backdrop-filter: blur(3px)!important;
   background-size: 100% 100%;
   color: black;
   background-image: url('./images/download.jpg');
@@ -90,10 +91,10 @@ code {
 
 @media only screen and (max-width: 600px) {
   .header_img{
-    height: 5em;
+    height: 4.5em;
   }
   .header_msg{
-    font-size: 2.3em;
+    font-size: 2.2em;
     padding-top: 0.3em;
     margin-left: 0.2em;
   }
