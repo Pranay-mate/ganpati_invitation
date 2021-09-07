@@ -5,9 +5,81 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  background-color: goldenrod;
+  /* background-color: #ffc0cb; */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@font-face {
+  font-family: selimaFont;
+  src: url(font/Selima\ .otf);
+}
+
+@font-face {
+  font-family: bolditalic;
+  src: url(font/Tinos-BoldItalic.ttf);
+}
+@font-face {
+  font-family: italic;
+  src: url(font/Tinos-Italic.ttf);
+}
+@font-face {
+  font-family: Parisienne;
+  src: url(font/Parisienne-Regular.ttf);
+}
+.inline_header{
+  display: inline-flex;
+}
+.header_img{
+  height: 11em;
+}
+.header_msg{
+  font-family: selimaFont;
+  font-size: 7em;
+  text-align: center;
+  margin-left: 0.3em;
+
+}
+
+.backImg{
+  position: relative;
+  z-index: -10;
+  width: 100%;
+}
+
+.blessings{
+  text-align: center;
+}
+
+.venue{
+  font-family: selimaFont;
+  font-size: 2.2em;
+}
+.blessings{
+  font-family: Parisienne;
+  font-size: 1.4em;
+  font-weight: 600;
+}
+.invitation_msg{
+  font-family: italic;
+
+}
+.address{
+  font-family: italic;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .header_img{
+    height: 3.5em;
+  }
+  .header_msg{
+    font-size: 2.3em;
+    margin-left: 0.2em;
+  }
 }
