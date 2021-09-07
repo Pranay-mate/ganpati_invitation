@@ -17,10 +17,10 @@ class ganeshaCard extends Component {
                     {/* <span className='header_msg'>Happy Ganesh Chaturthi</span> */}
                     <span className='header_msg'>Ganapati Bapa Moraya</span>
                </span>
-               <span className="invitation_msg">
+               <div className="invitation_msg">
                     <p className="mt-4">I invite you all to the Ganpati festival to be held on 10th Sept 2021. I would  await your gracious presence</p>
                     <p>To join us in praying the Lord Ganesha and Ask for blessings for prosperity of all.</p>
-                </span>
+                </div>
                <p className="blessings mt-4">May Lord Ganesh shower you with success in all your endeavours</p>
 
                <h4 className="venue"><i className="fas fa-star fa-xs"></i> Venue <i className="fas fa-star fa-xs"></i></h4>
