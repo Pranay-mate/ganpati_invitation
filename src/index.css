@@ -94,7 +94,27 @@ code {
     height: 4.5em;
   }
   .header_msg{
-    font-size: 2.2em;
+    font-size: 2em;
+    padding-top: 0.3em;
+    margin-left: 0.2em;
+  }
+  .invitation_msg{
+    margin-top: 3em;
+  }
+  .blessings{
+    margin-top: 3em;
+  }
+  .venue{
+    margin-top: 3em;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  .header_img{
+    height: 4.5em;
+  }
+  .header_msg{
+    font-size: 1.8em;
     padding-top: 0.3em;
     margin-left: 0.2em;
   }
