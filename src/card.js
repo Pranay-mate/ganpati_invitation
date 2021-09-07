@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Imgg from './images/1.jpg';
 // import Imgg from './images/2.jpg';
 import Img5 from './images/ganesh5.gif';
-import Img2 from './images/2.jpeg';
+import Img2 from './images/download.jpg';
 
 class ganeshaCard extends Component {
 
@@ -11,11 +11,14 @@ class ganeshaCard extends Component {
     render(){
         return(
             <div className="container pt-4">
+                <span style={{display:'none'}}>
+                 <a href='https://pngtree.com/free-backgrounds'>free background photos from pngtree.com/</a>
+                </span>
                {/* <img className="backImg" src={Img2}  /> */}
                <span className="inline_header">
-                    <img className="header_img px-2" src={Img5}  />
                     {/* <span className='header_msg'>Happy Ganesh Chaturthi</span> */}
                     <span className='header_msg'>Ganapati Bapa Moraya</span>
+                    <img className="header_img px-2" src={Img5}  />
                </span>
                <div className="invitation_msg">
                     <p className="mt-4">I invite you all to the Ganpati festival to be held on 10th Sept 2021. I would  await your gracious presence</p>
