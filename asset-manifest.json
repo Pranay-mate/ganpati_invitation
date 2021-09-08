@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ganpati_invitation/static/css/main.63c4799d.chunk.css",
+    "main.css": "/ganpati_invitation/static/css/main.40d7a14c.chunk.css",
     "main.js": "/ganpati_invitation/static/js/main.3dcf64ee.chunk.js",
     "main.js.map": "/ganpati_invitation/static/js/main.3dcf64ee.chunk.js.map",
     "runtime-main.js": "/ganpati_invitation/static/js/runtime-main.d23016e0.js",
@@ -10,7 +10,7 @@
     "static/js/3.0ada99d3.chunk.js": "/ganpati_invitation/static/js/3.0ada99d3.chunk.js",
     "static/js/3.0ada99d3.chunk.js.map": "/ganpati_invitation/static/js/3.0ada99d3.chunk.js.map",
     "index.html": "/ganpati_invitation/index.html",
-    "static/css/main.63c4799d.chunk.css.map": "/ganpati_invitation/static/css/main.63c4799d.chunk.css.map",
+    "static/css/main.40d7a14c.chunk.css.map": "/ganpati_invitation/static/css/main.40d7a14c.chunk.css.map",
     "static/js/2.4ead926b.chunk.js.LICENSE.txt": "/ganpati_invitation/static/js/2.4ead926b.chunk.js.LICENSE.txt",
     "static/media/1.d685653d.jpg": "/ganpati_invitation/static/media/1.d685653d.jpg",
     "static/media/index.css": "/ganpati_invitation/static/media/download.3f458f33.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.d23016e0.js",
     "static/js/2.4ead926b.chunk.js",
-    "static/css/main.63c4799d.chunk.css",
+    "static/css/main.40d7a14c.chunk.css",
     "static/js/main.3dcf64ee.chunk.js"
   ]
 }
