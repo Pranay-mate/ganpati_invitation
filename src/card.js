@@ -30,8 +30,9 @@ class ganeshaCard extends Component {
 
                <h4 className="venue"><FontAwesomeIcon icon={faStar}  size="xs" /> Venue <FontAwesomeIcon icon={faStar} size="xs" /></h4>
                     
-                    <h5 className="address">Maratha sec-32, Ulhasnagar-4 
-                    <a href="https://maps.app.goo.gl/FqYMnBoAw3nCnb6v6"><FontAwesomeIcon icon={faMapMarkerAlt} size="sm" className="ml-2" /></a>
+                    <h5 className="address">
+                    <a href="https://maps.app.goo.gl/FqYMnBoAw3nCnb6v6">Maratha sec-32, Ulhasnagar-4 
+                    <FontAwesomeIcon icon={faMapMarkerAlt} size="sm" className="ml-2" /></a>
                 </h5>
            </div>
         );
