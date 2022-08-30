@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ganpati_invitation/static/css/main.3bda69de.chunk.css",
-    "main.js": "/ganpati_invitation/static/js/main.8ede2c47.chunk.js",
-    "main.js.map": "/ganpati_invitation/static/js/main.8ede2c47.chunk.js.map",
+    "main.js": "/ganpati_invitation/static/js/main.eb2c1130.chunk.js",
+    "main.js.map": "/ganpati_invitation/static/js/main.eb2c1130.chunk.js.map",
     "runtime-main.js": "/ganpati_invitation/static/js/runtime-main.d23016e0.js",
     "runtime-main.js.map": "/ganpati_invitation/static/js/runtime-main.d23016e0.js.map",
     "static/js/2.4ead926b.chunk.js": "/ganpati_invitation/static/js/2.4ead926b.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.d23016e0.js",
     "static/js/2.4ead926b.chunk.js",
     "static/css/main.3bda69de.chunk.css",
-    "static/js/main.8ede2c47.chunk.js"
+    "static/js/main.eb2c1130.chunk.js"
   ]
 }
