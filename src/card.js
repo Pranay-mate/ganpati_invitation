@@ -23,7 +23,7 @@ class ganeshaCard extends Component {
                     <img className="header_img px-2" src={Img5}  />
                </span>
                <div className="invitation_msg">
-                    <p className="mt-4">I invite you all to the Ganpati festival to be held on 10th Sept 2021. I would  await your gracious presence</p>
+                    <p className="mt-4">I invite you all to the Ganpati festival to be held on 31th Aug 2022. I would  await your gracious presence</p>
                     <p>To join us in praying the Lord Ganesha and Ask for blessings for prosperity of all.</p>
                 </div>
                <p className="blessings mt-4">May Lord Ganesh shower you with success in all your endeavours</p>
